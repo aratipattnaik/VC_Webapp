@@ -13,6 +13,6 @@ A full-stack video conferencing web application built using React.js and Node.js
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
-- **Database:** (Add your DB here, e.g., MongoDB)
-- **Other:** WebRTC, Socket.io (if applicable)
+- **Database:** MongoDB
+- **Other:** WebRTC, Socket.io
 
