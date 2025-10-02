@@ -1,4 +1,4 @@
-# VC_Webapp
+# VideoCalling_Webapp
 
 A full-stack video conferencing web application built using React.js and Node.js.
 
